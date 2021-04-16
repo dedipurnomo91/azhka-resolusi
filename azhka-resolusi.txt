@@ -3,3 +3,4 @@ Azhka resolusi
 - membuat platform pengelola video
 - membuat forum diskusi
 - membuat flog
+- membuat design

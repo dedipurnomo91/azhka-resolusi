@@ -2,3 +2,4 @@ Azhka resolusi
 - Konsisten membuat konten
 - membuat platform pengelola video
 - membuat forum diskusi
+- membuat e-commerse

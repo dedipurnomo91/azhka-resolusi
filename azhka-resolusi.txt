@@ -4,3 +4,4 @@ Azhka resolusi
 - membuat forum diskusi
 - membuat flog
 - membuat design
+- membuat framework
